@@ -1,0 +1,6 @@
+gradio==3.30.0
+joblib
+nltk
+scikit-learn
+pandas
+imblearn
